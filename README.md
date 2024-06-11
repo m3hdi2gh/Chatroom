@@ -1,5 +1,4 @@
 # 🗨️ Chatroom
-
 A simple, interactive chatroom application built using Java. This project includes a `Server` class for managing connections and broadcasting and a `Client` class for joining the chatroom and real-time communication.
 
 ## 📌 Table of Contents
